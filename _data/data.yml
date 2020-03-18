@@ -234,7 +234,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-    - name: Google Suite
+      - name: Google Suite
         level: 99%
 
       - name: Sketch & Adobe Creative Suite (Photoshop, Illustrator, AfterEffects, Priemere Pro)
