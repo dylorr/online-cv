@@ -4,5 +4,9 @@
 
 @charset "utf-8";
 
+.level-bar-inner{
+  background: #E87722
+}
+
 @import "skins/{{ site.theme_skin | default: 'blue' }}"; // skin
 @import "default"; // main partials
