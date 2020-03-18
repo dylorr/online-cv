@@ -71,8 +71,10 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - GPA: 3.74/4.00
+          - Deans List every semester
+          - Charles & Betsy O’Brien Scholarship Recipient (2018-2019), John Tyler Fearnow Scholarship Recipient (2019-2020)
+          - Alpha Pi Mu Industrial and Systems Engineering Honor Society (Top 1/5 of graduating class)
     - degree: High School Diploma
       university: McDonogh School
       time: 2004 - 2016
@@ -86,9 +88,9 @@ education:
           - Bullet point
           
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Undergraduate Research Assistant
+      time: January 2020 - Present
+      company: Virginia Tech Data Science and Visualization Lab
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -101,9 +103,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Undergraduate Manager - Data Analytics and Graphic Design
+      time: September 2019 - Present
+      company: Virginia Tech Men's Basketball
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -112,9 +114,31 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+     - role: Blockchain UX Research + Design Intern
+       time: September 2019 - December 2019
+       company: block.one | Blacksburg, VA
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: Product Management and Analytics Intern (Card.AI Data Science+)
+      time: June 2019 - August 2019
+      company: Capital One | McLean, VA
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: Rotary and Missions Systems Intern (Sikorsky Aircraft)
+      time: June 2019 - August 2018
+      company: Lockheed Martin | Stratford, CT
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -130,11 +154,11 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Basketball Data Analytics
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: Basketball Design
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
@@ -176,23 +200,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+    - name: Google Suite
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Sketch & Adobe Creative Suite (Photoshop, Illustrator, AfterEffects, Priemere Pro)
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Python
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: R
+        level: 80%
+
+      - name: HTML5 & CSS
+        level: 75%
+
+      - name: SQL
+        level: 65%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
