@@ -44,12 +44,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      You can [Download PDF version] for a printer-friendly version (https://dylanorrell.com/Dylan%20Orrell%20CV%20-%20March.pdf).
 education:
     - degree: MSc in Business Administration - Business Analytics
       university: Virginia Tech
