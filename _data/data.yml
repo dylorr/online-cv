@@ -88,28 +88,28 @@ education:
           - Bullet point
           
 experiences:
-    - role: Undergraduate Research Assistant – Business Analytics
-      time: January 2020 - Present
-      company: Virginia Tech Data Science and Visualization Lab
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: Undergraduate Manager - Data Analytics and Graphic Design
-      time: September 2019 - Present
-      company: Virginia Tech Men's Basketball
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+     - role: Undergraduate Research Assistant – Business Analytics
+       time: January 2020 - Present
+       company: Virginia Tech Data Science and Visualization Lab
+       details: |
+         Describe your role here lorem ipsum dolor sit amet, consectetuer
+         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+         Cum sociis natoque penatibus et magnis dis parturient montes,
+         nascetur ridiculus mus. Donec quam felis, ultricies nec,
+         pellentesque eu, pretium quis, sem.
+           - Bullet point
+           - Bullet point
+     - role: Undergraduate Manager - Data Analytics and Graphic Design
+       time: September 2019 - Present
+       company: Virginia Tech Men's Basketball
+       details: |
+         Describe your role here lorem ipsum dolor sit amet, consectetuer
+         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+         Cum sociis natoque penatibus et magnis dis parturient montes,
+         nascetur ridiculus mus. Donec quam felis, ultricies nec,
+         pellentesque eu, pretium quis, sem.
+           - Bullet point
+           - Bullet point
      - role: Blockchain UX Research + Design Intern
        time: September 2019 - December 2019
        company: block.one | Blacksburg, VA
