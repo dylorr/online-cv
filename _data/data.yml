@@ -24,12 +24,12 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Native
+    Grades:
+      - idiom: Undergraduate - Overall
+        level: 3.72/4.00
 
-      - idiom: French
-        level: Conversational
+      - idiom: Undergraduate - In Major
+        level: 3.80/4.00
 
     interests:
       - item: Basketball
@@ -141,9 +141,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      A collection of analytics projects and design work. 
     assignments:
       - title: Basketball Web Scout Tool
         link: "http://dylanorrell.shinyapps.io/vtscout"
