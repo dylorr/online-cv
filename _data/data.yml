@@ -167,7 +167,7 @@ projects:
         link: "#"
         tagline: "Portfolio of creative graphic design work created for the Virginia Tech Men's Basketball program, in addition to freelance projects." 
 
-publications:
+#publications:
     title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
