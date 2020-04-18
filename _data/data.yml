@@ -58,7 +58,7 @@ education:
           - Bullet point
           - Bullet point
     - degree: BSc in Industrial and Systems Engineering
-      university: Virginia Tech
+      university: Virginia Tech (3.72/4.00)
       time: 2016 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -71,7 +71,7 @@ education:
           - Charles & Betsy O’Brien Scholarship Recipient (2018-2019), John Tyler Fearnow Scholarship Recipient (2019-2020)
           - Alpha Pi Mu Industrial and Systems Engineering Honor Society (Top 1/5 of graduating class)
     - degree: High School Diploma
-      university: McDonogh School
+      university: McDonogh School (3.89/4.00)
       time: 2004 - 2016
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
