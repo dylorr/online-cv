@@ -149,13 +149,13 @@ projects:
 
       - title: Basketball Web Shot Chart Generator Tool
         link: "https://dylanorrell-shot-chart.netlify.app/"
-        tagline: "A responsive JavaScript project deployed with Netlify to provide the Virginia Tech Men's Basketball coaching staff with a tool to efficiently create manually logged shot chart locationd data files."
+        tagline: "A responsive JavaScript project deployed with Netlify to provide the Virginia Tech Men's Basketball coaching staff with a tool to efficiently create manual shot chart data files."
 
-      - title: Undergraduate Research - Business Analytics
+      - title: Undergraduate Research - Business Analytics (Request Access)
         link: "#"
         tagline: "Research conducted with the Virginia Tech Data Science and Visualization Lab."
  
-      - title: Graduate Research - Machine Learning + Text Mining
+      - title: Graduate Research - Machine Learning + Text Mining (Request Access)
         link: "#"
         tagline: "Research conducted with the Virginia Tech Data Science and Visualization Lab, funded by Northrop Grumman."
 
