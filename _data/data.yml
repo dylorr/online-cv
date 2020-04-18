@@ -145,25 +145,29 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Basketball Data Analytics
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Basketball Web Scout Tool
+        link: "http://dylanorrell.shinyapps.io/vtscout"
+        tagline: "A responsive R project deployed with Shiny to provide the Virginia Tech Men's Basketball coaching staff with a tool to quickly scout player shooting tendencies. "
 
-      - title: Basketball Design
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Basketball Web Shot Chart Generator Tool
+        link: "https://dylanorrell-shot-chart.netlify.app/"
+        tagline: "A responsive JavaScript project deployed with Netlify to provide the Virginia Tech Men's Basketball coaching staff with a tool to efficiently create manually logged shot chart locationd data files."
 
-      - title: Tempo
+      - title: Undergraduate Research - Business Analytics
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Research conducted with the Virginia Tech Data Science and Visualization Lab."
+ 
+      - title: Graduate Research - Machine Learning + Text Mining
+        link: "#"
+        tagline: "Research conducted with the Virginia Tech Data Science and Visualization Lab, funded by Northrop Grumman."
 
-      - title: Atom
+      - title: Creative Work (Videography)
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Portfolio of creative videography work created as for the Virginia Tech Men's Basketball program."
 
-      - title: Delta
+      - title: Graphic Design Work
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Portfolio of creative graphic design work created for the Virginia Tech Men's Basketball program, in addition to freelance projects." 
 
 publications:
     title: Publications
