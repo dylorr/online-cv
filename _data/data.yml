@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Dylan Orrell
-    tagline: Undergraduate student, Virginia Tech
+    tagline: Undergraduate, Virginia Tech
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -161,11 +161,11 @@ projects:
 
       - title: Creative Work (Videography)
         link: "#"
-        tagline: "Portfolio of creative videography work created for the Virginia Tech Men's Basketball program."
+        tagline: "Portfolio of videography work created for the Virginia Tech Men's Basketball program."
 
       - title: Graphic Design Work
         link: "https://www.behance.net/gallery/95621057/Virginia-Tech-Mens-Basketball"
-        tagline: "Portfolio of creative graphic design work created for the Virginia Tech Men's Basketball program, in addition to freelance projects." 
+        tagline: "Portfolio of graphic design work created for the Virginia Tech Men's Basketball program." 
 
 #publications:
    # title: Publications
