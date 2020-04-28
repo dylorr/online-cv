@@ -152,13 +152,13 @@ projects:
         link: "https://dylanorrell-shot-chart.netlify.app/"
         tagline: "A responsive JavaScript project deployed with Netlify to provide the Virginia Tech Men's Basketball coaching staff with a tool to efficiently create manual shot chart data files."
 
-      - title: Undergraduate Research - Business Analytics (Request Access)
+      - title: Undergraduate Research - Business Analytics
         link: "#"
-        tagline: "Research conducted with the Virginia Tech Data Science and Visualization Lab."
+        tagline: "Research directed by the Virginia Tech Data Science and Visualization Lab and is externally funded. Research is focused on investigating the correlation of customers, sales and contexts to improve the precision marketing within retail business. Research focused on defining system informatics and data analysis exploration (regression and machine learning  i.e. gaussian process models)."
  
-      - title: Graduate Research - Machine Learning + Text Mining (Request Access)
+      - title: Graduate Research - Machine Learning + Text Mining
         link: "#"
-        tagline: "Research conducted with the Virginia Tech Data Science and Visualization Lab, funded by Northrop Grumman."
+        tagline: "Research directed by the Virginia Tech Data Science and Visualization Lab and is externally funded by Northrop Grumman."
 
       - title: Creative Work (Videography)
         link: "#"
