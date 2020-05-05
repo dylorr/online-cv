@@ -27,7 +27,7 @@ sidebar:
 
     Grades:
       - idiom: Undergraduate - Overall
-        level: 3.72/4.00
+        level: 3.74/4.00
 
       - idiom: Undergraduate - In Major
         level: 3.80/4.00
@@ -59,7 +59,7 @@ education:
           - Bullet point
           - Bullet point
     - degree: BSc in Industrial and Systems Engineering
-      university: Virginia Tech (3.72/4.00)
+      university: Virginia Tech (3.74/4.00)
       time: 2016 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -213,4 +213,4 @@ skills:
         level: 65%
 
 footer: >
-    Updated as of: April 2020
+    Updated as of: May 2020
