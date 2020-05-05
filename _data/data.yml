@@ -144,11 +144,11 @@ projects:
     intro: >
       A collection of analytics projects and design work. 
     assignments:
-      - title: Basketball Web Scout Tool
+      - title: Basketball Shot Chart Scout Tool
         link: "http://dylanorrell.shinyapps.io/vtscout"
         tagline: "A responsive R project deployed with Shiny to provide the Virginia Tech Men's Basketball coaching staff with a tool to quickly scout player shooting tendencies. "
 
-      - title: Basketball Web Shot Chart Generator Tool
+      - title: Basketball Shot Chart Generator Tool
         link: "https://dylanorrell-shot-chart.netlify.app/"
         tagline: "A responsive JavaScript project deployed with Netlify to provide the Virginia Tech Men's Basketball coaching staff with a tool to efficiently create manual shot chart data files."
 
@@ -204,7 +204,7 @@ skills:
         level: 85%
 
       - name: R
-        level: 80%
+        level: 85%
 
       - name: HTML5 & CSS
         level: 75%
