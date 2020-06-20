@@ -45,7 +45,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      You can [download this PDF](https://dylanorrell.com/Dylan%20Orrell%20CV%20-%20March.pdf) for a printer-friendly version of my resume.
+      You can [download this PDF](https://dylanorrell.com/Dylan%20Orrell%20CV%20-%20June%20Updated.pdf) for a printer-friendly version of my resume.
 education:
     - degree: MSc in Business Administration - Business Analytics
       university: Virginia Tech
@@ -84,8 +84,19 @@ education:
           - Bullet point
           
 experiences:
+    - role: Graduate Research Assistant
+      time: May 2020 - Present
+      company: Virginia Tech Data Science and Visualization Lab
+      #details: |
+        #Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem.
+          #- Bullet point
+          #- Bullet point
     - role: Undergraduate Research Assistant
-      time: January 2020 - Present
+      time: January 2020 - April 2020
       company: Virginia Tech Data Science and Visualization Lab
       #details: |
         #Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -213,4 +224,4 @@ skills:
         level: 65%
 
 footer: >
-    Updated as of: May 2020
+    Updated as of: June 2020
