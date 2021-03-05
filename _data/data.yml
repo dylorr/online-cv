@@ -95,7 +95,18 @@ experiences:
         #pellentesque eu, pretium quis, sem.
           #- Bullet point
           #- Bullet point
-    - role: Graduate Research Assistant
+    - role: Creative Content & Social Strategy
+      time: September 2019 - Present
+      company: Virginia Tech Men's Basketball
+      #details: |
+        #Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem.
+          #- Bullet point
+          #- Bullet point
+              - role: Graduate Research Assistant
       time: May 2020 - Present
       company: Virginia Tech Data Science and Visualization Lab
       #details: |
@@ -109,17 +120,6 @@ experiences:
     - role: Undergraduate Research Assistant
       time: January 2020 - April 2020
       company: Virginia Tech Data Science and Visualization Lab
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem.
-          #- Bullet point
-          #- Bullet point
-    - role: Data Analytics and Graphic Design
-      time: September 2019 - Present
-      company: Virginia Tech Men's Basketball
       #details: |
         #Describe your role here lorem ipsum dolor sit amet, consectetuer
         #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
