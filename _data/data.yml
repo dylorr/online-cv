@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Dylan Orrell
-    tagline: Undergraduate, Virginia Tech
+    tagline: MSBA-BA Graduate Student, Virginia Tech
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -26,11 +26,11 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     Grades:
-      - idiom: Undergraduate - Overall
+      - idiom: Graduate - Overall
         level: 3.74/4.00
 
-      - idiom: Undergraduate - In Major
-        level: 3.80/4.00
+      - idiom: Undergraduate - Overall
+        level: 3.74/4.00
 
     interests:
       - item: Basketball
@@ -48,7 +48,7 @@ career-profile:
       You can [download this PDF](https://dylanorrell.com/Orrell%20Resume%20Jan%202021.pdf) for a printer-friendly version of my resume.
 education:
     - degree: MSc in Business Administration - Business Analytics
-      university: Virginia Tech
+      university: Virginia Tech (3.80/4.00)
       time: 2020 - 2021
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -84,6 +84,17 @@ education:
           - Bullet point
           
 experiences:
+    - role: Project Manager & Data Science Lead
+      time: Septermber 2020 - Present
+      company: Lockheed Martin
+      #details: |
+        #Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem.
+          #- Bullet point
+          #- Bullet point
     - role: Graduate Research Assistant
       time: May 2020 - Present
       company: Virginia Tech Data Science and Visualization Lab
@@ -171,13 +182,9 @@ projects:
         link: "#"
         tagline: "Research directed by the Virginia Tech Data Science and Visualization Lab and is externally funded by Northrop Grumman."
 
-      - title: Creative Work (Videography)
-        link: "#"
-        tagline: "Portfolio of videography work created for the Virginia Tech Men's Basketball program."
-
-      - title: Graphic Design Work
-        link: "https://www.behance.net/gallery/95621057/Virginia-Tech-Mens-Basketball"
-        tagline: "Portfolio of graphic design work created for the Virginia Tech Men's Basketball program." 
+      - title: Creative Portfolop
+        link: "orrell.xyz"
+        tagline: "Portfolio of graphic design, social strategy and videography work created for the Virginia Tech Men's Basketball program."
 
 #publications:
    # title: Publications
@@ -224,4 +231,4 @@ skills:
         level: 65%
 
 footer: >
-    Updated as of: June 2020
+    Updated as of: March 2021
